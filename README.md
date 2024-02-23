@@ -1,5 +1,7 @@
+[!MasterHead](https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg)
 <h1 align="center">Hi 👋, I'm Siddharth Jain</h1>
 <h3 align="center">A passionate python developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras9sid" alt="paras9sid" /></a> </p>
 
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paras9sid&show_icons=true&locale=en" alt="paras9sid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paras9sid&" alt="paras9sid" /></p>
+
