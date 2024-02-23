@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Jain</h1>
 <h3 align="center">A passionate python developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg">
+<img align="center" alt="coding" width="500" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras9sid" alt="paras9sid" /></a> </p>
 
