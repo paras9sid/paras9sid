@@ -1,4 +1,3 @@
-[!MasterHead](https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg)
 <h1 align="center">Hi 👋, I'm Siddharth Jain</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg">
